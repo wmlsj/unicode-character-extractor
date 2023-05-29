@@ -1,5 +1,4 @@
-# unicode-character-extractor
-Unicode字符提取工具
+# unicode-character-extractor Unicode字符提取工具
 这是一个简单的 Python 脚本,可以从字符串中提取所有的Unicode字符,并打印出它们的16进制编码到一个可以直接使用的C语言数组。
 
 ## 运行样例
